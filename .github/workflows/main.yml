@@ -49,6 +49,7 @@ jobs:
         with:
           # the output branch we mentioned above
           target_branch: output
-          build_dir: dist/snake
+          build_dir: dist
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
