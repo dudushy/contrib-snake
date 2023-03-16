@@ -1,4 +1,4 @@
 # snake
-Playing around with the snake.
+Playing around with the contribution snake.
 
 ![snake](snake/github-contribution-grid-snake.svg)
